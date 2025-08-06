@@ -10,5 +10,5 @@ b = get_number("Nhập số b (mặc định = 1): ")
 calc = lambda a, b: (a + b, a - b)
 result = calc(a, b)
 
-# In kết quả
+# In kết quả ra
 print(f"Tổng: {result[0]}, Hiệu: {result[1]}") 
